@@ -59,7 +59,6 @@ def main():
 if __name__ == "__main__":
     print("wiki mod is run directly")
     main()
-else:
-    print("wiki mod is imported into another module")
+
 
 
