@@ -5,4 +5,4 @@ Can be used to download music portfolio of artists or bands as long as a wikiped
 
 To use clone or fork and download the dependecies using pip install -r requirements.txt
 
-Then simply run python dl_video_urls.py and follow prompts
+Then simply run python dl_video_urls.py and then the bash file to download
